@@ -1,14 +1,6 @@
 # A simplified Jira clone built with Angular, Akita and ng-zorro
 
-> Phase two will not be completed as planned. Both [Chau Tran][chau] and I was too busy with some other commitments. View our [working in progress Graph QL branch][gql].
->
-> You can check the storybook collection of components I wrote for Jira Clone ➡ [jira-storybook.trungk18.com](https://jira-storybook.trungk18.com/) 📕
->
-> Thanks for your continuous support. Stay tuned! :muscle:
 
-There have been a handful of cool Jira-cloned apps written in `React`/`VueJS`, which makes me wonder **Why not Angular**? And here you go.
-
-This is not only a simplified Jira clone built with Angular, but also an example of a **modern**, **real-world** Angular codebase.
 
 <details>
   <summary>Table Of Content</summary>
@@ -48,13 +40,9 @@ This is not only a simplified Jira clone built with Angular, but also an example
 
 ## Merry Christmas
 
-Thank you for your support! -> https://jira.trungk18.com/project/issue/2020
-
 ![Jira clone built with Angular and Akita][christmas2020]
 
 ## Working application
-
-Check out the **live demo** -> https://jira.trungk18.com
 
 ![Jira clone built with Angular and Akita][demo]
 
@@ -67,7 +55,7 @@ That makes it easy to develop hard-to-reach states. Save these UI states as **st
 
 ### Jira Clone Storybook
 
-This is the collection of components that I wrote for [jira.trungk18.com][jira], includes:
+This is the collection of components that I, includes:
 
 - Avatar
 - Breadcrumbs
@@ -79,31 +67,16 @@ Check out the **storybook demo** -> https://jira-storybook.trungk18.com/
 
 ![Jira clone built with Angular and Akita][demo-storybook]
 
-## Support
-
-If you like my work, feel free to:
-
-- ⭐ this repository. And we will be happy together :)
-- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about Angular Jira clone
-- <a title="Thanks for your support!" href="https://www.buymeacoffee.com/tuantrungvo" target="_blank"><img src="https://res.cloudinary.com/dvujyxh7e/image/upload/c_thumb,w_140,g_face/v1596378474/default-orange_uthxgz.jpg" alt="Buy Me A Coffee"></a>
-
-Thanks a bunch for stopping by and supporting me!
-
-[tweet]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Ftrungk18%2Fjira-clone-angular&text=Awesome%20Jira%20clone%20app%20built%20with%20Angular%209%20and%20Akita&hashtags=angular,akita,typescript
 
 ## Who is it for 🤷‍♀️
 
-I have been working with Angular for about four years. I built cool stuff at [Zyllem][zyllem] but almost all of them are internal apps which is difficult to show.
+I have been working with Angular for about four years. I built cool stuff but almost all of them are internal apps which is difficult to show.
 
 This is a showcase application I've built in my spare time to experiment the new library that I wanted to try before: `Akita`, `TailwindCSS`, `ng-zorro`.
 
 There are many Angular examples on the web but most of them are way too simple. I like to think that this codebase contains enough complexity to offer valuable insights to **Angular developers of all skill levels** while still being _relatively_ easy to understand.
 
 ---
-
-This piece of work is also part of our technical series [angular-vietnam/100-days-of-angular][100days] which aims at enabling everyone, after 100 days of learning Angular with us, to **self-build their application with the similar scale**. Our desire is to advocate and grow the Angular developer community in Vietnam.
-
-[zyllem]: https://www.zyllem.com/
 
 ## Tech stack
 
@@ -204,7 +177,7 @@ I learned a lot of stuff. I know you might also have a curiosity about the proce
 
 I will try to be as detailed as possible. Hopefully through the tutorial, you will get the idea and will start working on your own application soon. Please bear with me.
 
-Its series will also be published in Vietnamese as part of our [angular-vietnam/100-days-of-angular][100days].
+
 
 | Part | Description                                                                     | Status |
 | ---- | ------------------------------------------------------------------------------- | ------ |
