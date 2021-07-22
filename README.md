@@ -167,44 +167,6 @@ I will take two weeks break to:
 - [ ] GraphQL API and store data on the actual database
 - [ ] Authentication
 
-View the current [work in progress branch][gql]
-
-## Tutorial
-
-When I look at the application, it is huge. When the task is huge, you usually don't know where and how to start working with them. I started to break the big task into a [simple to-do list on notion][todo-list]. Once I know what needs to be done, what I need is to follow the plan. That's my approach.
-
-I learned a lot of stuff. I know you might also have a curiosity about the process of building the same scale app as well. That's why I am writing a tutorial series on how I built Angular Jira clone from scratch. I hope you guys will learn something from that too :)
-
-I will try to be as detailed as possible. Hopefully through the tutorial, you will get the idea and will start working on your own application soon. Please bear with me.
-
-
-
-| Part | Description                                                                     | Status |
-| ---- | ------------------------------------------------------------------------------- | ------ |
-| 00   | [Behind the 900 stars repository - Slide][part-1]                               | Done   |
-| 00   | [Behind a thousand stars repository - Angular Air][part-1-video]                | Done   |
-| 00   | [Prerequisites][part00]                                                         | Done   |
-| 01   | [Create a new repository and set up a new Angular application with CLI][part01] | Done   |
-| 02   | [Build the application layout with flex and TailwindCSS][part02]                | Done   |
-| 03   | [Setup Akita state management][part03]                                          | Done   |
-| 04   | [Build an editable textbox][part04]                                             | Done   |
-| 05   | [Build an interactive drag and drop board][part05]                              | Done   |
-| 06   | [Build a markdown text editor][part06]                                          | Done   |
-| 07   | [Build a rich text HTML editor][part07]                                         | Done   |
-| 08   | [Create placeholder loading (like Facebook's cards loading)][part08]            | Done   |
-
-[part-1]: https://slides.com/tuantrungvo/behind-the-900-star-repository-jira-clone-angular
-[part-1-video]: https://youtu.be/3dukbsRX0tc
-[part00]: https://trungk18.com/experience/angular-jira-clone-tutorial-00-prerequisites/
-[part01]: https://trungk18.com/experience/angular-jira-clone-tutorial-01-planning-and-set-up/
-[part02]: https://trungk18.com/experience/angular-jira-clone-tutorial-02-application-layout-tailwindcss-flex/
-[part03]: https://trungk18.com/experience/angular-jira-clone-tutorial-03-akita-state-management/
-[part04]: https://trungk18.com/experience/angular-jira-clone-tutorial-04-editable-textbox/
-[part05]: https://trungk18.com/experience/angular-jira-clone-tutorial-05-interactive-drag-and-drop-board/
-[part06]: https://trungk18.com/experience/angular-jira-clone-tutorial-06-angular-markdown-text-editor/
-[part07]: https://trungk18.com/experience/angular-jira-clone-tutorial-07-rich-text-editor/
-[part08]: https://trungk18.com/experience/angular-jira-clone-tutorial-08-angular-placeholder-loading/
-[todo-list]: https://www.notion.so/trungk18/Tasks-636be5c5c0dd4d8cab30808e4e41facc
 
 ## Time spending
 
@@ -278,27 +240,12 @@ I skipped writing test for this project. I might do it for the proper backend Gr
 
 It was being tested on IE 11, Chrome and Firefox. For Safari, there are some minor alignment issues.
 
-## Author: Trung Vo ✍️
+## Author: Gunjan Kadu ✍️
 
-- A young and passionate front-end engineer. Working with Angular and TypeScript. Like photography, running, cooking, and reading books.
-- Personal blog: https://trungk18.com/
-- Say hello: trungk18 [et] gmail [dot] com
+- A young and passionate full-stack engineer. Working with MERN, MEAN Stack. Like photography, running, cooking, and reading books.
+- Personal site: https://gunjankadu.com/
 
-## Contributing
 
-If you have any ideas, just [open an issue][issues] and tell me what you think.
-
-If you'd like to contribute, please fork the repository and make changes as you'd like. [Pull requests][pull] are warmly welcome.
-
-## Credits
-
-Inspired by [oldboyxx/jira_clone][oldboyxx] and [Datlyfe/jira_clone][datlyfe].
-
-I reused part of the HTML and CSS code from these projects.
-
-## License
-
-Feel free to use my code on your project. It would be great if you put a reference to this repository.
 
 [MIT](https://opensource.org/licenses/MIT)
 
