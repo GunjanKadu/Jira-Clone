@@ -63,7 +63,7 @@ This is the collection of components that I, includes:
 - Input
 - More to come...
 
-Check out the **storybook demo** -> https://jira-storybook.trungk18.com/
+Check out the **storybook demo** 
 
 ![Jira clone built with Angular and Akita][demo-storybook]
 
@@ -157,7 +157,7 @@ I will take two weeks break to:
 - Fix bugs and UI enhancements for Angular Jira clone.
 - Continue working with the [typescript-data-structures][typescript-dsa] repo.
 
-[typescript-dsa]: https://github.com/trungk18/typescript-data-structures
+
 
 ### Phase 2
 
